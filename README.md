@@ -1,0 +1,2 @@
+# libtorchtominist
+libtorch调用pt文件实现手写字识别
